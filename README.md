@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 My name is Xingkuan and I also go by Benjamin. I'm an undergraduate student at the University of Wisconsin-Madison majoring in Computer Science and minoring in Data Science. I am expected to graduate by May 2024.
 
+[![wakatime](https://wakatime.com/badge/user/336b0aed-adef-4e05-9c55-079dcf80c345.svg)](https://wakatime.com/@336b0aed-adef-4e05-9c55-079dcf80c345)
+
 Most Used Languages:
 
 - Python
