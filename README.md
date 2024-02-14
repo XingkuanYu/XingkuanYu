@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Xingkuan and I also go by Benjamin. I'm a student at the University of Wisconsin-Madison majoring in Computer Science and minoring in Data Science. I am expected to graduate B.S. by May 2024.
+
+Most used languages:
+- Python
+- Java
+- C/C++
+- JavaScript
+- R
